@@ -1,0 +1,5 @@
+name = OpenPublish Disqus
+core = 7.x
+description = OpenPublish Disqus Configuration
+apps[server] = "development"
+apps[manifests][] = "app/manifest.app"

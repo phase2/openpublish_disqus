@@ -1,0 +1,10 @@
+name = OpenPublish Disqus
+description = OpenPublish Disqus Best Practices
+machine_name = openpublish_disqus
+version = 1.0
+downloadable = openpublic_disqus
+author = Phase2 Technology
+author_url = http://www.phase2technology.com/
+logo = logo.png
+screenshots[] = screenshot.jpg
+downloadables[openpublic_disqus] = https://github.com/phase2/openpublic_disqus/tarball/master
