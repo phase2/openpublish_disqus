@@ -1,5 +1,5 @@
 name = OpenPublish Disqus
-description = Set up Disqus-based commenting for an OpenPublish site.
+description = Set up Disqus-based commenting for an OpenPublish site. Make sure that you've <a href="http://disqus.com">signed up with Disqus</a> before installing this app.
 machine_name = openpublish_disqus
 version = 1.0
 downloadable = openpublish_disqus

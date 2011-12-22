@@ -4,3 +4,4 @@ description = OpenPublish Disqus Configuration
 apps[server] = "development"
 apps[manifests][] = "app/manifest.app"
 dependencies[] = disqus
+stylesheets[all][] = css/disqus.css
