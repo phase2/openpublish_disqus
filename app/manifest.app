@@ -1,5 +1,5 @@
 name = OpenPublish Disqus
-description = OpenPublish Disqus Best Practices
+description = Set up Disqus-based commenting for an OpenPublish site.
 machine_name = openpublish_disqus
 version = 1.0
 downloadable = openpublish_disqus
